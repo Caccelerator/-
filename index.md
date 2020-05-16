@@ -1,8 +1,5 @@
 ## 欢迎来到XRC的主页！
-You can use the [editor on GitHub](https://github.com/Caccelerator/-/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
-
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
-
+大家好，我是XRC！你们可以叫我小X！这是我的第一个网站，也是我的临时主页。
 ### Markdown
 
 Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
